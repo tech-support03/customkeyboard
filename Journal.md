@@ -6,7 +6,7 @@
 - 12/1: 4 Hours
 - 12/2: 3.5 Hours
 - 12/3: 5.5 Hours
-- 12/4: 4 Hours
+- 12/4: 3 Hours
 
 Full CAD
 <img width="1555" height="997" alt="image" src="https://github.com/user-attachments/assets/07febdfd-2cda-4964-9776-d6e50820f2eb" />
