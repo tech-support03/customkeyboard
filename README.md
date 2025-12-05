@@ -2,7 +2,7 @@
 
 ## A custom hotswapable keyboard with a 60% plus arrow keys layout
 
-The purpose of this project was to learn about designing pcbs and how to make my own keyboard. I wanted to make something that was not a completely unique design but I wanted my own personal touch. It had to be small and portable, so I went with a 60% layout at first. However I really wanted arrow keys because they are very important to me in a keyboard layout, so I added them and it acutally led to better packaging overall. Another very important thing to me was hotswapability. I wanted the ability to change my switches if I wanted to. This led to its own set of challenges, but eventually it worked out pretty nicely. Lastly, I wanted a rotary encoder, so I put one in the top left corner. Overall, this project was really fun to design!
+The purpose of this project was to learn about designing pcbs and how to make my own keyboard. I wanted to make something that was not a completely unique design but I wanted my own personal touch. It had to be small and portable, so I went with a 60% layout at first. However I really wanted arrow keys because they are very important to me in a keyboard layout, so I added them and it acutally led to better packaging overall. Another very important thing to me was hotswapability. I wanted the ability to change my switches if I wanted to. This led to its own set of challenges, but eventually it worked out pretty nicely. Additionally, I wanted a rotary encoder, so I put one in the top left corner. Finally, I wanted the microcontroller to be exposed because I think it looks pretty cool, so I made a cutout for it in the top right. Overall, this project was really fun to design!
 
 ### CAD
 Full CAD
