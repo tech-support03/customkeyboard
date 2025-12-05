@@ -7,6 +7,8 @@ The purpose of this project was to learn about designing pcbs and how to make my
 ### CAD
 Full CAD
 <img width="1555" height="997" alt="image" src="https://github.com/user-attachments/assets/c74eb844-23cf-41e0-983e-d6a3c24d2c65" />
+<img width="1789" height="782" alt="image" src="https://github.com/user-attachments/assets/e270b2c1-7570-4699-a992-db338ff58c03" />
+<img width="1775" height="927" alt="image" src="https://github.com/user-attachments/assets/8d682c89-79b9-434f-acbf-c5926373f7a3" />
 
 Top Plate
 <img width="1730" height="683" alt="image" src="https://github.com/user-attachments/assets/36f0ed8f-cede-459c-86e0-0042511bd6b2" />
