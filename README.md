@@ -31,12 +31,12 @@ Schematic
 
 | Item                          | Description                                           | Link                                                                                 | Price | Quantity | Total |
 |-------------------------------|-------------------------------------------------------|--------------------------------------------------------------------------------------|-------|----------|-------|
-| PCB                           | circuit board for all the components                  | https://jlcpcb.com                                                                    | 20.70 | 1        | 20.70 |
-| Raspberry Pi Pico             | Microcontroller for keyboard                          | https://www.microcenter.com/product/661033/raspberry-pi-pico-microcontroller-development-board    | 2.99  | 1        | 2.99  |
-| Akko Cream Blue Switches      | Tactile switches for keyboard, sold in packs of 45    | https://www.amazon.com/Akko-Cream-Blue-Tactile-Switches/dp/B0CL4FRWY8                 | 25.98 | 1        | 25.98 |
-| Womier Black keycaps          | Keycaps for keyboard                                  | https://www.amazon.com/Womier-Black-Pudding-Keycaps/dp/B0BN5F3B9S                     | 17.99 | 1        | 17.99 |
-| Plate mount Stabilizers       | Stabilizers for keyboard                              | https://www.amazon.com/Durock-Plate-Mount-Stabilizer/dp/B08T6CTRM8                    | 9.99  | 1        | 9.99  |
-| Kailh hotswap sockets         | Sockets for hot-swappable switches                    | https://www.amazon.com/Kailh-Hot-Swap-Sockets/dp/B07ZHYJWLJ                           | 9.99  | 1        | 9.99  |
-| 1N4148 Diodes                 | Diodes for the keyboard matrix                        | https://www.amazon.com/ALLECIN-1N4148-Schottky-Diodes/dp/B0BRF4SJGQ                   | 5.99  | 1        | 5.99  |
-| EC11 Rotary Encoder with switch | Rotary encoder used for volume knob                 | https://keeb.io/products/rotary-encoder-ec11                                          | 1.99  | 1        | 1.99  |
-| **Total:**                    |                                                       |                                                                                      |       |          | **95.62** |
+| PCB                           | circuit board for all the components                  | https://jlcpcb.com                                                                    | 20.70 | 1        | 22.64 |
+| Raspberry Pi Pico             | Microcontroller for keyboard                          | https://www.microcenter.com/product/661033/raspberry-pi-pico-microcontroller-development-board    | 2.99  | 1        | 3.27 |
+| Akko Cream Blue Switches      | Tactile switches for keyboard, sold in packs of 45    | https://www.amazon.com/Akko-Cream-Blue-Tactile-Switches/dp/B0CL4FRWY8                 | 25.98 | 1        | 28.41 |
+| Womier Black keycaps          | Keycaps for keyboard                                  | https://www.amazon.com/Womier-Black-Pudding-Keycaps/dp/B0BN5F3B9S                     | 17.99 | 1        | 19.67 |
+| Plate mount Stabilizers       | Stabilizers for keyboard                              | https://www.amazon.com/Durock-Plate-Mount-Stabilizer/dp/B08T6CTRM8                    | 9.99  | 1        | 10.92  |
+| Kailh hotswap sockets         | Sockets for hot-swappable switches                    | https://www.amazon.com/Kailh-Hot-Swap-Sockets/dp/B07ZHYJWLJ                           | 9.99  | 1        | 10.92 |
+| 1N4148 Diodes                 | Diodes for the keyboard matrix                        | https://www.amazon.com/ALLECIN-1N4148-Schottky-Diodes/dp/B0BRF4SJGQ                   | 5.99  | 1        | 6.55 |
+| EC11 Rotary Encoder with switch | Rotary encoder used for volume knob                 | https://keeb.io/products/rotary-encoder-ec11                                          | 1.99  | 1        | 2.18  |
+| **Total:**                    |                                                       |                                                                                      |       |          | **104.56** |
